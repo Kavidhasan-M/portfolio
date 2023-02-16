@@ -236,6 +236,14 @@ video{
     width: 100%;
 }
 
+.vid{
+    display: flex;
+    justify-content: space-between;
+}
+
+iframe{
+    max-width: 100%;
+}
 
 
 
@@ -304,4 +312,11 @@ video{
                 .image img {
                     width: 100%;
                 }
+
+
+
+                .vid {
+                   flex-direction: column;
+                }
+
 }

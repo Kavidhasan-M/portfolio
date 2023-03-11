@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    background-color: #22152b;
+    background-color: #15202b;
     color: rgb(253, 253, 253);
     font-family: 'fav', sans-serif;
 }
@@ -175,6 +175,11 @@ p.ques {
     font-family: 'Inter', sans-serif;
     font-size: 25px;
     font-weight: 700;
+}
+
+.row-text-head.image{
+    margin-top: 0%;
+
 }
 
 .row .image {
